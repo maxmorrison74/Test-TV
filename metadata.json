@@ -1,0 +1,6 @@
+{
+  "name": "GuidaTV: Confronto TV 48-70 Pollici & Scelta Budget",
+  "description": "Piattaforma interattiva per confrontare le migliori TV da 48 a 70 pollici: OLED, QD-OLED, Mini-LED e QLED. Calcolatore di distanza, simulatore ambientale e consulente di acquisto per budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
